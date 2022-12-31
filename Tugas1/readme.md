@@ -1,4 +1,4 @@
 <h1>Dokumentasi Aplikasi</h1>
-<img src="./Screenshoot/firefox_ErZ9VrJFL9.png" alt="" widht="4rem">
+<img src="./Screenshoot/firefox_ErZ9VrJFL9.png" alt="" width="600px">
 <br>
 <p>Arahkan kursor unguk menggerakan Cover Buku dan gunakan <i>Arrow</i> kanan dan kiri untuk menggeser buku</p>
